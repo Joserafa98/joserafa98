@@ -1,3 +1,6 @@
+#Hello there! i´m José Hernández 
+![PersonalBanner](https://media.licdn.com/dms/image/v2/D4D16AQFTfwwFZf-H5w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729547330918?e=1735171200&v=beta&t=MeTYMPoyvtzwvzOZ6GukzLahnwVuY3xSUetvrmXF638)
+
 # Full Stack Developer 
 ![Pacman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
