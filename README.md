@@ -6,12 +6,13 @@
 # Full Stack Developer 
 ![Pacman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
-##About me:
+## About me:
 - 💻 Looking for a remote Work
 - 🇪🇸 Living in Spain
 - 🚀 Specialist on Front-end Development & Social Media Management 📲
+![separator](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-##Language & Tools:
+## Language & Tools:
  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" alt="javascript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" alt="react" height="40" style="vertical-align:top; margin:4px">
